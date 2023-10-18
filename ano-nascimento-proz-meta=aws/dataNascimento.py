@@ -21,4 +21,4 @@ ano_nascimento = obter_ano_valido()
 idade = calcular_idade(ano_nascimento)
 
 print(f"Nome: {nome}")
-print(f"Idade em 2022: {idade} anos")
+print(f"Você completou ou completará em 2022: {idade} anos")
